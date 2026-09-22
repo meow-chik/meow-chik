@@ -18,11 +18,3 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
-
-### 🚀 About Me:
-- 🤖 Python AI Engineer focused on LLM-based applications.
-- 🔎 Interested in RAG, embeddings and semantic search.
-- 🧠 Exploring AI Agents, Tool Calling, ReAct and MCP.
-- ⚙️ Building AI systems with strong backend architecture.
-- 🐧 Linux, macOS and Windows enthusiast.
